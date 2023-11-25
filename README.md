@@ -21,6 +21,7 @@ This project demonstrates how to create a distance detector using an Arduino, an
 ```bash
 # Example command for uploading Arduino code
 arduino-cli upload -p /dev/ttyACM0 -b arduino:avr:uno YourArduinoCode.ino
+```
 
 # DIY Raspberry Pi Temperature and Humidity Sensor
 
@@ -42,3 +43,4 @@ This project involves creating a temperature and humidity sensor using a DHT22 s
 ```bash
 # Example command for running the Python script
 python3 temperature_sensor.py
+```
